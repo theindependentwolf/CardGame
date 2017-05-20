@@ -29,5 +29,10 @@ The War card game is a simple card game played by 2 or more players. There are m
 * If you want to run this in your IDE, you can clone the repository and import the project. 
 
 
+### Video Demonstration of program
+
+https://streamable.com/mn2we
+
+
 
 
